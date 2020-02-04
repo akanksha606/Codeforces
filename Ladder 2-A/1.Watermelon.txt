@@ -1,4 +1,4 @@
-//Watermelon(javas)
+//Watermelon(java)
 import java.util.*;
 public class watermelon {
  

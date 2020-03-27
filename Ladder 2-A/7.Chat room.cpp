@@ -1,6 +1,6 @@
+//Chat room(c++)
 #include<bits/stdc++.h>
 using namespace std;
-//Chat room(c++)
 int main(){
     string s,h="hello";
     int l,i,f=0,x=0;
